@@ -10,27 +10,36 @@ function About() {
           <img src="assets/about.jpeg" alt="" />
         </div>
         <div>
-          <h2 className="about-subtitle">I'am Gulsah Coskun</h2>
-          <p className="about-text">
-            I've been working as a Java Backend Developer in the Netherlands.
-            I have 6+ years of experience as a software engineer. 
-            I am eager to learn new fields and technologies. I try to keep up with the latest technology trends.
+        <h2 className="about-subtitle">A little bit about myself...</h2>
+          <p className="about-text">  
+            I've been working as a Java Backend Developer in the Netherlands. <br/>
+            I have a bachelor's degree in computer engineering and master's degree in software engineering.  <br/><br/>
+            I have 6+ years of experience as a software engineer with an Oracle Java SE 11 Developer Certification, involved in different kinds of projects in industries ranging from betting to fintech.   <br/><br/>
+            I love solving problems, coding and developing!  <br/>
+            I am eager to learn new fields and technologies and always open for changes and challenges!
           </p>
           <p><b>Languages and tools known:</b> </p>
           <p>
-            <img className='tech-image' src="https://techtalent.ca/wp-content/uploads/2020/12/1_b_al7C5p26tbZG4sy-CWqw.png" alt='aws'/>
-            <img className='tech-image' src="https://www.clipartmax.com/png/full/126-1266864_docker-docker-php.png" alt='docker'/>
-            <img className='tech-image' src="https://cncf-branding.netlify.app/img/projects/kubernetes/icon/color/kubernetes-icon-color.png" alt='k8s'/>
-            <img className='tech-image' src="http://assets.stickpng.com/images/58480984cef1014c0b5e4902.png" alt="jenkins" />
-            <img className='tech-image' src="https://coralogix.com/wp-content/uploads/2021/02/Prometheus@2x.png" alt='prometheus'/>
-            <img className='tech-image' src="https://www.clipartmax.com/png/full/450-4503037_grafana-prometheus-grafana-logo.png" alt='grafana'/>
-            <img className='tech-image' src="https://www.clipartmax.com/png/full/142-1427076_nginx-nginx-logo-svg.png" alt='nginx'/>
-            <img className='tech-image' src="https://www.clipartmax.com/png/full/220-2204780_illustration-for-add-data-to-elasticsearch-elastic-search-logo-png.png" alt='elk'/>
-            <img className='tech-image' src="https://cdn.worldvectorlogo.com/logos/django.svg" alt='django'/>
-            <img className='tech-image' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" alt='zabbix'/>
-            <img className='tech-image' src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png" alt='python'/>
-            <img className='tech-image' src="https://www.clipartmax.com/png/full/112-1128947_view-more-info-new-relic-new-relic-logo-png.png" alt="New Relic" />
-            <img className='tech-image' src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="git" />
+            <img className='tech-image' src="assets/java.png" alt="java" />
+            <img className='tech-image' src="assets/spring.png" alt="spring" />
+            <img className='tech-image' src="assets/restful.png" alt="restful" />
+            <img className='tech-image' src="assets/postgresql.png" alt="postgresql" />
+            <img className='tech-image' src="assets/git.png" alt="git" />
+            <img className='tech-image' src="assets/tomcat.png" alt="tomcat" />
+            <img className='tech-image' src="assets/maven.png" alt="maven" />
+            <img className='tech-image' src="assets/gradle.png" alt="gradle" />
+            <img className='tech-image' src="assets/kotlin.png" alt="kotlin" />
+            <img className='tech-image' src="assets/intellij.png" alt="intellij" />
+          </p>
+          <p>  
+            <img className='tech-image' src="assets/junit.png" alt="junit" />
+            <img className='tech-image' src="assets/jenkins.png" alt="jenkins" />
+            <img className='tech-image' src="assets/redis.png" alt="redis" />
+            <img className='tech-image' src="assets/hibernate.png" alt="hibernate" />
+            <img className='tech-image' src="assets/docker.png" alt="docker" />
+            <img className='tech-image' src="assets/elasticsearch.png" alt="elasticsearch" />
+            <img className='tech-image' src="assets/mongodb.png" alt="mongodb" />
+            <img className='tech-image' src="assets/rabbitmq.png" alt="rabbitmq" />
           </p>
         </div>
       </div>
