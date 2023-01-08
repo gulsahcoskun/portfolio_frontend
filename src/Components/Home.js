@@ -11,9 +11,9 @@ function Home() {
                 <h1 className="home-title">
                     Hey!,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt='' width="50px"></img>
                     <br />
-                    I'am <span>Gulsah Coskun</span>
+                    I'm <span>Gulsah Coskun</span>
                     <br />
-                    Backend Engineer
+                    Backend Developer
                 </h1>
                 <div className="home-img">
                     <img src="assets/home.png" alt=""></img>
